@@ -1,2 +1,4 @@
 Here is a basic crud api with golang 
 Where we can create, read, update and delete movie based data 
+
+Built it in a single file as im not usiong any external databse and has feature in func like get, delete, create and update
